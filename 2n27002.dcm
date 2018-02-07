@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 2N27002
-D 50V Vds, 0.22 A Id, N-channel MOSFET, SOT-23
-K N-Channel MOSFET
-F https://www.fairchildsemi.com/datasheets/BS/BSS138.pdf
-$ENDCMP
-#
-#End Doc Library

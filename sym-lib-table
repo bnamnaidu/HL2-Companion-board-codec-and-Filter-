@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name hermeslite-rescue)(type Legacy)(uri ${KIPRJMOD}/hermeslite-rescue.lib)(options "")(descr ""))
+  (lib (name hermeslite)(type Legacy)(uri E:/HL_Codec_ZAZ/Tem/hl/libs/hermeslite.lib)(options "")(descr ""))
+)

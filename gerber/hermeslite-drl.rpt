@@ -1,0 +1,32 @@
+Drill report for D:/HL_Codec_ZAZ/hl36/hermeslite.kicad_pcb
+Created on 2/5/2018 11:08:54 AM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'hermeslite.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (496 holes)
+    T2  0.81mm  0.032"  (70 holes)
+    T3  1.00mm  0.039"  (4 holes)
+    T4  1.00mm  0.039"  (83 holes)
+    T5  1.20mm  0.047"  (33 holes)
+    T6  1.27mm  0.050"  (1 hole)
+    T7  1.50mm  0.059"  (2 holes)
+    T8  1.57mm  0.062"  (6 holes)
+    T9  1.60mm  0.063"  (1 hole)
+    T10  3.30mm  0.130"  (4 holes)
+
+    Total plated holes count 700
+
+
+Drill file 'hermeslite-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.70mm  0.067"  (4 holes)
+
+    Total unplated holes count 4

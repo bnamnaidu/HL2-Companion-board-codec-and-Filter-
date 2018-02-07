@@ -1,0 +1,19 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# PROTO
+#
+DEF PROTO DB 0 40 Y Y 1 F N
+F0 "DB" -50 350 39 H V C CNN
+F1 "PROTO" -50 -50 39 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+S -100 300 0 0 0 1 0 N
+X ~ 1 150 250 150 L 40 40 1 1 P
+X ~ 2 150 150 150 L 40 40 1 1 P
+X ~ 3 150 50 150 L 40 40 1 1 P
+ENDDRAW
+ENDDEF
+#
+#End Library
